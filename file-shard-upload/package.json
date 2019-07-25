@@ -1,0 +1,22 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^8.0.1",
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.0",
+    "koa-multer": "^1.0.2",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lsy",
+  "license": "ISC"
+}
